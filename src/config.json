@@ -1,0 +1,63 @@
+{
+  "game-locations": [{
+      "loc": "Sydney",
+      "elevation": "10.43",
+      "test-data-count": 10,
+      "look-back": "-10y"
+    },
+    {
+      "loc": "London",
+      "elevation": "17.8",
+      "test-data-count": 10,
+      "look-back": "-10y"
+    },
+    {
+      "loc": "Manhatten",
+      "elevation": "15",
+      "test-data-count": 10,
+      "look-back": "-10y"
+    },
+    {
+      "loc": "Tokyo",
+      "elevation": "23",
+      "test-data-count": 10,
+      "look-back": "-10y"
+    },
+    {
+      "loc": "Mumbai",
+      "elevation": "12",
+      "test-data-count": 10,
+      "look-back": "-10y"
+    },
+    {
+      "loc": "Frankfurt",
+      "elevation": "30",
+      "test-data-count": 10,
+      "look-back": "-10y"
+    },
+    {
+      "loc": "Paris",
+      "elevation": "26",
+      "test-data-count": 10,
+      "look-back": "-10y"
+    },
+    {
+      "loc": "Bangkok",
+      "elevation": "16",
+      "test-data-count": 10,
+      "look-back": "-10y"
+    },
+    {
+      "loc": "Melbourne",
+      "elevation": "7",
+      "test-data-count": 10,
+      "look-back": "-10y"
+    },
+    {
+      "loc": "Canberra",
+      "elevation": "40",
+      "test-data-count": 10,
+      "look-back": "-10y"
+    }
+  ]
+}
