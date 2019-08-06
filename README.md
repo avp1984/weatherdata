@@ -41,7 +41,7 @@ Melbourne|-37.83,144.98,7|2015-12-24T15:30:55Z|Snow|-5.3|998.4|55
 
 ### Installation
 - Checkout the code to a directory of your choice\
-`git clone  https://github.com/avp1984/weatherdatagen.git`
+`git clone https://github.com/avp1984/weatherdata.git`
 - change to the directory `weatherdata` 
 - The necessary python packages required are installed by running the command,\
 `pip install -r  requirements.txt`
