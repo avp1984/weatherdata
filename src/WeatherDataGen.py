@@ -113,7 +113,7 @@ def gen_dummy_weather(location, geo, elev, dt, limit):
 # Argument parsing and initiation
 def main(argv):
     if len(argv) < 3: 
-        print('Invalid number of arguments, correct usage is `python WeatherDataGen <config_file> <output_file>`\n'
+        print('Invalid number of arguments, correct usage is `python WeatherDataGen.py <config_file> <output_file>`\n'
               'Example :>> python src/WeatherDataGen.py src/config.json weatherdata.psv')
         exit()
 
